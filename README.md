@@ -1,5 +1,5 @@
 # bitvavo-pi
-Unofficial Bitvavo balance printer for Raspberry Pi with LCD1602 display that allows you to print your current account balance in EUR on a screen.
+Unofficial Bitvavo balance displayer for Raspberry Pi with LCD1602 display that allows you to print your current account balance in EUR on a screen.
 
 _Note that this project makes use of the [java-bitvavo-api](https://github.com/bitvavo/java-bitvavo-api) wrapper. For more information about java-bitvavo-api, visit the [official repository](https://github.com/bitvavo/java-bitvavo-api)._
 
