@@ -26,7 +26,7 @@ Before you can use this program, a few things have to be set up:
 
 You can use this program with or without arguments.
 
-For trying out, simply run `java -jar /path/to/bitvavo-pi.jar`.
+For testing, simply run `java -jar /path/to/bitvavo-pi.jar`. The program will then ask you to enter your API Key and Secret.
 You can also run the program in one go with `java -jar /path/to/bitvavo-pi.jar <YOUR_API_KEY> <YOUR_API_SECRET>`.
 
 ## Launch on boot
