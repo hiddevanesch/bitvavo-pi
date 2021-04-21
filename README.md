@@ -7,7 +7,7 @@ _Note that this project makes use of the [java-bitvavo-api](https://github.com/b
 
 To be able to use bitvavo-pi, you need the following:
 * Raspberry Pi running Raspbian
-* LCD1602 Display with 4-bit addon
+* LCD1602 Display with I2C (IIC) adapter addon. See [example](https://nl.aliexpress.com/item/32413056677.html?spm=a2g0o.productlist.0.0.15f4b1a0JOE4xw&algo_pvid=d305d8f5-d75b-460c-8357-308948bda42e&algo_expid=d305d8f5-d75b-460c-8357-308948bda42e-0&btsid=2100bdd716190301319318073e85bf&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_).
 * Bitvavo API Key + Secret
 
 You can generate an API Key + Secret from the Bitvavo site when logged in, do not forget to activate it via email.
